@@ -1,4 +1,4 @@
-# SENSE
+# SENSE Arduino Library 
 
 Nexus Electronics SENSE Library for Arduino IDE. 
 
