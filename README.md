@@ -12,5 +12,6 @@ Check out their products and support their work at Adafruit.com or Arduino.com
 
 *SD Card Library is already apart of Arduino IDE
 
-*Arduino PDM microphone support library is here
+*Arduino PDM microphone support library is here:
+https://github.com/Nexus-Electronics/SENSE-PDM-Microphone-
 
