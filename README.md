@@ -1,6 +1,6 @@
 # SENSE Arduino Library 
 
-Nexus Electronics SENSE Library for Arduino IDE. 
+Nexus Electronics SENSE Library for Arduino IDE. (Supports BME688, APDS9960, and PCF8523)
 
 This library is a group of library and files and demo code from Adafruit and Arduino, assembled to work for SENSE.
 
